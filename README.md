@@ -11,7 +11,7 @@
 3. 安装依赖
 
    ```shell
-   cd waveletlab-webbuilder
+   cd waveletlab-webbuilder-24
    npm i
    ```
 
